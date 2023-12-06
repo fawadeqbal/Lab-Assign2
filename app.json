@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "modren-ui",
-    "slug": "modren-ui",
+    "name": "Chat App",
+    "slug": "Chat App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
